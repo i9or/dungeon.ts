@@ -1,3 +1,3 @@
-# dungeon.ts
+# Dungeon.ts
 
 Small roguelike game.
